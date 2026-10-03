@@ -1,0 +1,22 @@
+{
+  "name": "national-trust-mcp",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^7"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.0",
+    "zod": "^4.6.5"
+  },
+  "scripts": {
+    "start": "bun run index.ts",
+    "test": "bun test",
+    "smoke": "bun scripts/smoke.ts",
+    "check:stdio": "bun scripts/stdio-check.ts"
+  }
+}

@@ -1,0 +1,197 @@
+{
+ "pagedMultiMatch": {
+  "input": "",
+  "results": [
+   {
+    "id": {
+     "value": "160"
+    },
+    "type": "PLACE",
+    "title": "Hanbury Hall",
+    "description": "William and Mary-style country house, garden and park",
+    "town": "Droitwich Spa",
+    "county": "Worcestershire",
+    "location": {
+     "lat": 52.275398,
+     "lon": -2.08633
+    },
+    "tagRefs": [
+     "TAG000972",
+     "TAG000973",
+     "TAG002039",
+     "TAG000970",
+     "TAG000651",
+     "TAG000773",
+     "TAG000971",
+     "TAG000652",
+     "TAG000377",
+     "TAG001024",
+     "TAG000891",
+     "TAG000298",
+     "TAG000692",
+     "TAG000969",
+     "TAG000728",
+     "TAG002706",
+     "TAG000800",
+     "TAG001857",
+     "TAG000724",
+     "TAG000688",
+     "TAG001019",
+     "TAG000644",
+     "TAG002722",
+     "TAG000984",
+     "TAG002644",
+     "TAG002643",
+     "TAG000982",
+     "TAG000025",
+     "TAG000380",
+     "TAG000818",
+     "TAG000816",
+     "TAG000659",
+     "TAG000814",
+     "TAG000778",
+     "TAG000976",
+     "TAG000977",
+     "TAG000974",
+     "TAG000732",
+     "TAG000975",
+     "TAG000931",
+     "TAG000898",
+     "TAG000037",
+     "TAG002017",
+     "TAG002016",
+     "TAG000673",
+     "TAG000871",
+     "TAG000990",
+     "TAG000991",
+     "TAG000790",
+     "TAG000031",
+     "TAG000032",
+     "TAG000030",
+     "TAG000390",
+     "IA000002",
+     "IA000003",
+     "TAG000829",
+     "TAG001718",
+     "TAG000826",
+     "TAG000989",
+     "TAG000868",
+     "TAG000946",
+     "TAG000669",
+     "TAG000985",
+     "TAG000028",
+     "TAG001832",
+     "TAG000821",
+     "TAG000029",
+     "TAG001017",
+     "TAG000289",
+     "TAG001014",
+     "TAG001013",
+     "TAG000320",
+     "IA000011",
+     "IA000012",
+     "IA000010",
+     "TAG000959",
+     "TAG001728",
+     "TAG000757",
+     "TAG000754",
+     "TAG000314",
+     "TAG000996",
+     "TAG000831",
+     "TAG000755",
+     "TAG000634"
+    ],
+    "websiteUrlPath": "/visit/worcestershire-herefordshire/hanbury-hall",
+    "dayOpeningStatus": [
+     {
+      "date": "2026-10-03",
+      "openingTimeStatus": "FULLY_OPEN"
+     },
+     {
+      "date": "2026-10-04",
+      "openingTimeStatus": "FULLY_OPEN"
+     },
+     {
+      "date": "2026-10-05",
+      "openingTimeStatus": "FULLY_OPEN"
+     }
+    ],
+    "publicationChannels": [
+     "NATIONAL_TRUST_ORG_UK",
+     "NATIONAL_TRUST_MOBILE_APPLICATION"
+    ],
+    "cmsRegion": "worcester-hereford",
+    "cmsPageType": "STANDARD",
+    "websiteUrl": "https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/hanbury-hall",
+    "imageUrl": "https://nt.global.ssl.fastly.net/binaries/content/gallery/website/national/regions/worcestershire-herefordshire/places/hanbury-hall/library/autumn/hanbury-hall-vegetable-garden-1590400.jpg",
+    "imageDescription": "View of the main house and formal vegetable garden at Hanbury Hall, Worcestershire",
+    "subTitle": "Droitwich Spa, Worcestershire"
+   },
+   {
+    "id": {
+     "value": "153"
+    },
+    "type": "PLACE",
+    "title": "Greyfriars House and Garden",
+    "description": "Late medieval merchant's house, rescued from demolition, in Worcester city centre",
+    "town": "Worcester",
+    "county": "Worcestershire",
+    "location": {
+     "lat": 52.190455,
+     "lon": -2.21898
+    },
+    "tagRefs": [
+     "TAG002722",
+     "TAG000773",
+     "TAG000971",
+     "TAG001013",
+     "IA000002",
+     "IA000003",
+     "IA000011",
+     "IA000012",
+     "TAG000826",
+     "TAG000959",
+     "TAG000659",
+     "TAG000967",
+     "TAG000626",
+     "TAG002705",
+     "TAG000778",
+     "TAG000800",
+     "TAG000028",
+     "TAG000975"
+    ],
+    "websiteUrlPath": "/visit/worcestershire-herefordshire/greyfriars-house-and-garden",
+    "dayOpeningStatus": [
+     {
+      "date": "2026-10-03",
+      "openingTimeStatus": "FULLY_OPEN"
+     },
+     {
+      "date": "2026-10-04",
+      "openingTimeStatus": "CLOSED"
+     },
+     {
+      "date": "2026-10-05",
+      "openingTimeStatus": "CLOSED"
+     }
+    ],
+    "publicationChannels": [
+     "NATIONAL_TRUST_ORG_UK",
+     "NATIONAL_TRUST_MOBILE_APPLICATION"
+    ],
+    "cmsRegion": "worcester-hereford",
+    "cmsPageType": "STANDARD",
+    "websiteUrl": "https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/greyfriars-house-and-garden",
+    "imageUrl": "https://nt.global.ssl.fastly.net/binaries/content/gallery/website/national/regions/worcestershire-herefordshire/places/greyfriars-house-and-garden/library/spring/greyfriars-house-and-garden.jpg",
+    "imageDescription": "A view of the exterior of black and white timber framed Greyfriars House from Friar Street",
+    "subTitle": "Worcester, Worcestershire"
+   }
+  ],
+  "totalNumberOfMatches": 40,
+  "pageSize": 5,
+  "pageStartIndex": 0,
+  "aggregations": null,
+  "lastPage": false,
+  "firstPage": true
+ }
+}
